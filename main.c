@@ -3,7 +3,7 @@
 
 int main() /*Main Fuction*/
 {
- float num1, num2, num3; /*float veriable*/
+ float num1, num2, num3; /*float variable*/
 
  printf("Enter Number: "); /*printf statement for Entering a number*/
  scanf("\t%f",&num1); /*Scaning number*/
